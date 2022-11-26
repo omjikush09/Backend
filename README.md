@@ -19,7 +19,7 @@ AWS_S3_BUCKET_NAME=
 AWS_S3_REGION=
 ```
 
-As we are using MongoDB as our database you need to get itr connection [url](https://www.prisma.io/docs/concepts/database-connectors/mongodb).
+As we are using MongoDB as our database so you need to get its connection [url](https://www.prisma.io/docs/concepts/database-connectors/mongodb). and to environment variable.
 
 As we will be uploading image to s3 we need you to create bucket on s3 and enable anonymous public read and more on this [here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html).
 
