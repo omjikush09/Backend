@@ -47,4 +47,11 @@ Congrats you have Successfully run the Server.
 if you wnant to run in Development mode then run
 >pnpm dev
 
+Default running port is 8000 (you can change it using ENV)
+
+###API
+base route - /api/v1
+
+After all other is as specified in docs..
+
 
